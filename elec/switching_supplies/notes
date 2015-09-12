@@ -1,0 +1,5 @@
+there are 3 switching supplies seen in SAM_2519.JPG.
+
+Each supply contains 2 touch points:
+. at the inductor left, the output voltage,
+. at the inductor right, the power good signal.
