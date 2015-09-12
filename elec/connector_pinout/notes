@@ -1,0 +1,23 @@
+multi connector cable is documented here, p. 47:
+http://www.axis.com/files/manuals/um_p5532_45173_en_1112.pdf
+
+reversed connector pinout (numbering as seen in SAM_2520.JPG):
+1 : Vin (DC 24V to 34V or AC 20V to 24V)
+2 : Vin (AC 20V to 24V)
+3 : ???
+4 : ???
+5 : ???
+6 : ???
+7 : ???
+8 : GND
+9 : GPIO
+10: GPIO
+11: GPIO
+12: GPIO
+13: likely Vout DC 3.3V
+14: GND
+
+missing pins:
+Vout DC 3.3V
+Audio in (left channel if stereo)
+Audio out (2 channels)
