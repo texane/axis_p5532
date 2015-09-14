@@ -10,3 +10,5 @@ on the picture, the 3.3V power supply is not the indicated
 one but the other, non yet marked, one. It is controlled by
 a supervisor IC, the tps3808:
 http://www.ti.com/product/tps3808g01
+adjustable nominal supply voltage version
+resistor values: 1.7K, 1.7K
