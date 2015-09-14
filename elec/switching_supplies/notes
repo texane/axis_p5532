@@ -3,3 +3,10 @@ there are 3 switching supplies seen in SAM_2519.JPG.
 Each supply contains 2 touch points:
 . at the inductor left, the output voltage,
 . at the inductor right, the power good signal.
+
+
+TODO:
+on the picture, the 3.3V power supply is not the indicated
+one but the other, non yet marked, one. It is controlled by
+a supervisor IC, the tps3808:
+http://www.ti.com/product/tps3808g01
